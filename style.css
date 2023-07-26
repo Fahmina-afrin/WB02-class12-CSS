@@ -1,0 +1,12 @@
+/*this is basic code*/
+
+h1 !important{
+    background-color: aqua;
+}
+#serial{
+    background-color: forestgreen;
+}
+
+.class2  #serial{
+    background-color: purple; color:aqua
+}
